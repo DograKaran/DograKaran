@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan Dogra
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning React,JavaScript,NodeJS,ExpressJS,C#,ASP.net
+- 🌱 I’m currently learning HTML,CSS,React,JavaScript,NodeJS,ExpressJS,C#,ASP.net
 - 💞️ I’m looking to collaborate on FrontEnd/BackEnd Projects...
 - 📫 How to reach me -> dogra.k0511@gmail.com
 
